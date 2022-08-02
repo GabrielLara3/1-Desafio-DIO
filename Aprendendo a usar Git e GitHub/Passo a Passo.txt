@@ -1,0 +1,27 @@
+Criando repositório usando GitHub, Git e PC.
+1- GitHub: novo repositório + readme + commit.
+2- Copia Https.
+3- Cola https na pasta do Git ja criada no PC.
+4- Colar: git clone + enter.
+5- Já esta criado um readme na pasta com tudo que foi feito no GitHub.
+6- No Git: cd + nome do repositório + enter.
+7- Já estará dentro do repositório com a (main) criada.
+8- Limpar Git: Ctrl+L.
+9- No Git: git status.
+10- Criar uma pasta e dentro dessa pasta criar qualquer arquivo ex: txt.
+11- Colocar informações na pasta.
+12- Organizar.
+13- Mandar as informações criadas na máquina local para o servidor remoto do GitHub:(no Git) digitar:
+ git status + enter. Irá aparecer a pasta criado no Git.
+14- Para o Git entender que a gente quer enviar esta pasta para o controle de versão. no Git digite: 
+git add .  ou -A. + enter. + git status + enter.
+15- Ctrl+L.
+16- Para compartilhar todo o conteúdo criado com o GitHub. No Git, digite: git commit -m (""strings)"Git e GitHub
+passo a passo" + enter.
+17- git status + enter. Ele ira mostrar o commit local para poder ser compartilhado com o GitHub.
+18- F5 no GitHub Para consultar se o arquivo foi compartilhado.
+19- Para o arquivo ser compartilhado com o GitHub. No Git, digite: git push origin main + enter.
+20- F5 no GitHub e ira aparecer o arquivo criado no PC pelo Git.
+
+
+  O Git Bash é um terminal extendido para otimizar o uso do Git.
